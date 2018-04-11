@@ -1,2 +1,6 @@
 tao moi file trong issue
+<<<<<<< HEAD
 sua o nhanh master
+=======
+sua cua issue
+>>>>>>> issue
